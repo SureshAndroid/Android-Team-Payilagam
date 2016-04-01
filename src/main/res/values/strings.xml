@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing App new</string>
+
+    <string name="he_hello">Hello World</string>
+    <string name="title_activity_webview">Webview</string>
+
+</resources>
